@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * Nom Prénom
 * Nom Prénom
-* Nom Prénom
+* TAPASCO Stéphane
 
 Date du jour : 00/00/0000
 
